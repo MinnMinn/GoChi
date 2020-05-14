@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06d0f8f3-b2f9-475f-8eaf-d0c6c11d0e77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/driver_mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/driver/driver_mysql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/Router.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/Router.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yxq0NJ004z7TzpsooIPcN8oNLI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Project-Boil" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\interfaces" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\repositories" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\services" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\db_migration" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\db_migration\docker-entrypoint-initdb.d" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\test" />
+      <recent name="C:\Users\tung.nguyen\go\src\SP_FriendManagement_API_TungNguyen\controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build SP_FriendManagement_API_TungNguyen">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SP_FriendManagement_API_TungNguyen" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build SP_FriendManagement_API_TungNguyen" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="SP_FriendManagement_API_TungNguyen" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="SP_FriendManagement_API_TungNguyen" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SP_FriendManagement_API_TungNguyen" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test repositories" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SP_FriendManagement_API_TungNguyen" />
+      <working_directory value="$PROJECT_DIR$/repositories" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/repositories" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="SP_FriendManagement_API_TungNguyen" />
+      <working_directory value="$PROJECT_DIR$/services" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/services" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.fullstack-mysql: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="fullstack-mysql" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.phpmyadmin: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="phpmyadmin" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml.fullstack-mysql: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.phpmyadmin: Compose Deployment" />
+      <item itemvalue="Go Build.go build SP_FriendManagement_API_TungNguyen" />
+      <item itemvalue="Go Test.go test repositories" />
+      <item itemvalue="Go Test.go test services" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build SP_FriendManagement_API_TungNguyen" />
+        <item itemvalue="Go Test.go test repositories" />
+        <item itemvalue="Go Test.go test services" />
+        <item itemvalue="Docker.docker-compose.yml.phpmyadmin: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.fullstack-mysql: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06d0f8f3-b2f9-475f-8eaf-d0c6c11d0e77" name="Default Changelist" comment="" />
+      <created>1583894418206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583894418206</updated>
+      <workItem from="1583894419467" duration="8614000" />
+      <workItem from="1583985154220" duration="1551000" />
+      <workItem from="1585022850391" duration="3625000" />
+      <workItem from="1586766360793" duration="185000" />
+      <workItem from="1586766556415" duration="6090000" />
+      <workItem from="1586775043550" duration="61000" />
+      <workItem from="1586775136841" duration="25000" />
+      <workItem from="1586775224547" duration="411000" />
+      <workItem from="1586775809341" duration="26000" />
+      <workItem from="1586830375183" duration="32759000" />
+      <workItem from="1586925090235" duration="95581000" />
+      <workItem from="1587464014401" duration="1768000" />
+      <workItem from="1587527878535" duration="7449000" />
+      <workItem from="1587546052869" duration="11353000" />
+      <workItem from="1587630259475" duration="14182000" />
+      <workItem from="1588921243762" duration="537000" />
+      <workItem from="1588921814975" duration="393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Docker" timestamp="1587526965159">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Docker/0.0.1280.984@0.0.1280.984" timestamp="1587526965159" />
+    <state x="432" y="423" key="#GOROOT" timestamp="1586766391381">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="432" y="423" key="#GOROOT/0.0.1280.984@0.0.1280.984" timestamp="1586766391381" />
+    <state x="432" y="325" key="#Go_Modules" timestamp="1586766537685">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="432" y="325" key="#Go_Modules/0.0.1280.984@0.0.1280.984" timestamp="1586766537685" />
+    <state x="349" y="98" key="#TestAddFriend_in_SP_FriendManagement_API_TungNguyen/services" timestamp="1587090662719">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="98" key="#TestAddFriend_in_SP_FriendManagement_API_TungNguyen/services/0.0.1280.984@0.0.1280.984" timestamp="1587090662719" />
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587115135851">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1587115135851" />
+    <state x="387" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587541940430">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="387" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1587541940430" />
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587542361809">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1587542361809" />
+    <state x="349" y="202" key="#docker-compose.yml.app:_Compose_Deployment" timestamp="1587526991438">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="202" key="#docker-compose.yml.app:_Compose_Deployment/0.0.1280.984@0.0.1280.984" timestamp="1587526991438" />
+    <state x="349" y="119" key="#go_build_SP_FriendManagement_API_TungNguyen" timestamp="1587437577649">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="119" key="#go_build_SP_FriendManagement_API_TungNguyen/0.0.1280.984@0.0.1280.984" timestamp="1587437577649" />
+    <state x="478" y="359" key="DockerComposeFileDialog" timestamp="1587526987574">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="478" y="359" key="DockerComposeFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1587526987574" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1588922204161">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1588922204161" />
+    <state width="618" height="329" key="GridCell.Tab.0.bottom" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.0.center" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.0.left" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.0.right" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.1.bottom" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.1.center" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.1.left" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state width="618" height="329" key="GridCell.Tab.1.right" timestamp="1588921137186">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="329" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1588921137186" />
+    <state x="252" y="194" key="RollbackChangesDialog" timestamp="1586945100314">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="252" y="194" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1586945100314" />
+    <state x="120" y="66" key="SettingsEditor" timestamp="1587090821708">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1587090821708" />
+    <state width="648" height="500" key="XDebugger.FullValuePopup" timestamp="1587355202110">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="648" height="500" key="XDebugger.FullValuePopup/0.0.1280.984@0.0.1280.984" timestamp="1587355202110" />
+    <state x="336" y="189" width="659" height="795" key="find.popup" timestamp="1587548595014">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="189" width="659" height="795" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1587548595014" />
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1585032533573" />
+    <state x="483" y="253" key="refactoring.ChangeSignatureDialog" timestamp="1587348512520">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="483" y="253" key="refactoring.ChangeSignatureDialog/0.0.1280.984@0.0.1280.984" timestamp="1587348512520" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1587636990577">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1587636990577" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1587031462911">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1587031462911" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>44</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>49</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers_test.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>122</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>125</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>126</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>124</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>123</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/test/handlers.go</url>
+          <line>127</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>86</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>121</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>89</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>91</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>67</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>104</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>147</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>150</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>71</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>74</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>73</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>72</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>75</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>76</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>49</line>
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>93</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository_test.go</url>
+          <line>183</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>138</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>141</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>142</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>149</line>
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>78</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>62</line>
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>55</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>68</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>67</line>
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>125</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>126</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>128</line>
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>132</line>
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>133</line>
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="580" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/services/FriendService.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>89</line>
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>90</line>
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>95</line>
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repositories/FriendRepository.go</url>
+          <line>96</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_SP_FriendManagement_API_TungNguyen.out" NAME="go test SP_FriendManagement_API_TungNguyen Coverage Results" MODIFIED="1586945977863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_interfaces.out" NAME="go test interfaces Coverage Results" MODIFIED="1587439953547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_controllers.out" NAME="go test controllers Coverage Results" MODIFIED="1586926109352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_repositories.out" NAME="go test repositories Coverage Results" MODIFIED="1587542904417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_models.out" NAME="go test models Coverage Results" MODIFIED="1586858871638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SP_FriendManagement_API_TungNguyen$go_test_services.out" NAME="go test services Coverage Results" MODIFIED="1587542896648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
